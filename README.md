@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Generative AI,Deep Learning,Cloud technologies.**
 
-- 👯 I’m looking to collaborate on **StudyFlow**
+- 👯 I’m looking to collaborate on **SkillSphere**
 
 - 🤝 I’m looking for help with **AI-ML**
 
-- 📝 I regularly write articles on [https://medium.com/@shambhaviisok](https://medium.com/@shambhaviisok)
+- 📝 I regularly write articles on [https://medium.com/@samtoosoon](https://medium.com/@samtoosoon)
 
 - 💬 Ask me about **AI-ML,frontend development.**
 
