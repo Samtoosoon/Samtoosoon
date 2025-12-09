@@ -1,25 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shambhavi Sinha</h1>
-<h3 align="center">A passionate ML enthusiast(Gen AI) and frontend developer from India</h3>
+<h3 align="center">A passionate ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samtoosoon&label=Profile%20views&color=0e75b6&style=flat" alt="samtoosoon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samtoosoon" alt="samtoosoon" /></a> </p>
 
-- 🔭 I’m currently working on [Brainstorm Pdfs](https://github.com/Samtoosoon/Pdfquestion)
-
-- 🌱 I’m currently learning **Generative AI,Deep Learning,Cloud technologies.**
-
-- 👯 I’m looking to collaborate on **SkillSphere**
-
-- 🤝 I’m looking for help with **AI-ML**
 
 - 📝 I regularly write articles on [https://medium.com/@samtoosoon](https://medium.com/@samtoosoon)
 
 - 💬 Ask me about **AI-ML,frontend development.**
 
 - 📫 How to reach me **shambhaviisok@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1udn2wg85ekJz199XkafIwnEpoqov8PoN/view?usp=sharing](https://drive.google.com/file/d/1udn2wg85ekJz199XkafIwnEpoqov8PoN/view?usp=sharing)
 
 - ⚡ Fun fact **I am always on learning something new.**
 
