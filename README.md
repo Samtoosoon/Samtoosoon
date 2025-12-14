@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shambhavi Sinha</h1>
+<h1 align="center">Hi 👋, I'm Shambhavi</h1>
 <h3 align="center">A passionate ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samtoosoon&label=Profile%20views&color=0e75b6&style=flat" alt="samtoosoon" /> </p>
@@ -9,8 +9,6 @@
 - 📝 I regularly write articles on [https://medium.com/@samtoosoon](https://medium.com/@samtoosoon)
 
 - 💬 Ask me about **AI-ML,frontend development.**
-
-- 📫 How to reach me **shambhaviisok@gmail.com**
 
 - ⚡ Fun fact **I am always on learning something new.**
 
